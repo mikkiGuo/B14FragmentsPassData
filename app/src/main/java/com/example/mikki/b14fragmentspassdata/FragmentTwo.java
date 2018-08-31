@@ -9,6 +9,9 @@ import android.widget.TextView;
 
 public class FragmentTwo extends Fragment{
 
+    /*
+     * Maybe add a button that allows you to go back to fragmentOne
+     */
     TextView display_tv;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
